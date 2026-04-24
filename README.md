@@ -209,6 +209,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [lightcms](https://github.com/jonradoff/lightcms) | AI-native CMS with 41 MCP tools for managing websites through natural language — pages, templates, assets, themes, collections, redirects, and more with full content versioning |
 | [linear-helper](plugins/linear-helper/) | Linear issue tracking integration and workflow management |
 | [load-tester](plugins/load-tester/) | Load and stress testing for APIs and web services |
+| [magic-cc-codex-worker](https://github.com/wenqingyu/magic-cc-codex-worker) | Turns OpenAI Codex into a pool of parallel agent workers for Claude Code. Each worker runs in its own `git worktree` to isolate concurrent edits. Resumable sessions, dual-model PR review (PR materialized in a detached worktree for the reviewer), role-based specialization (implementer/reviewer/planner), delegation-level knob (minimal/balance/max), bundled single-file MCP server. 9 slash commands, 3 subagents, 62 unit tests, CI on Node 20/22. Install: `/plugin marketplace add wenqingyu/magic-cc-codex-worker` then `/plugin install magic-codex@magic-codex` |
 | [memory-profiler](plugins/memory-profiler/) | Memory leak detection and heap analysis |
 | [migrate-tool](plugins/migrate-tool/) | Generate database migrations and code migration scripts for framework upgrades |
 | [migration-generator](plugins/migration-generator/) | Database migration generation and rollback management |
