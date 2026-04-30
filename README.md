@@ -161,6 +161,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [data-privacy](plugins/data-privacy/) | Data privacy implementation with PII detection and anonymization |
 | [database-optimizer](plugins/database-optimizer/) | Database query optimization with index recommendations and EXPLAIN analysis |
 | [dead-code-finder](plugins/dead-code-finder/) | Find and remove dead code across the codebase |
+| [debian-packaging-agent-skill](https://github.com/cosgroveb/debian-packaging-agent-skill) | Debian packaging skill covering debhelper, debian/rules, package metadata, lintian, and multi-binary packages for Ruby (gem2deb), Python (pybuild), Rust (debcargo), and Go (dh-golang). Loads language-specific reference docs on demand. Apache 2.0 |
 | [debug-session](plugins/debug-session/) | Interactive debugging workflow with git bisect integration |
 | [dig2crawl](https://github.com/ZENG3LD/dig2crawl) | Universal web crawler with Claude-powered CSS selector discovery. 4-level AI extraction escalation (CSS, browser actions, Claude Vision, captcha). Rust. |
 | [dependency-manager](plugins/dependency-manager/) | Audit, update, and manage project dependencies with safety checks |
