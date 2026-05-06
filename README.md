@@ -267,6 +267,7 @@ Over 176 production-ready plugins that extend Claude Code with domain-specific c
 | [smart-commit](plugins/smart-commit/) | Intelligent git commits with conventional format, semantic analysis, and changelog generation |
 | [sprint-prioritizer](plugins/sprint-prioritizer/) | Sprint planning with story prioritization and capacity estimation |
 | [technical-sales](plugins/technical-sales/) | Technical demo creation and POC proposal writing |
+| [temporal-core](https://github.com/Evanyuan-builder/temporal-core) | Make Claude Code agents feel time pass — research-backed temporal awareness via 3 hooks (SessionStart + UserPromptSubmit + PreToolUse) that inject `session elapsed` and `since last action` signals into context. Bundled skill teaches pacing/deadline reasoning. Aher et al. 2026: explicit time surfacing → 6× deadline performance. Apache-2.0, zero runtime deps. |
 | [the-pragmatic-pm](https://github.com/marfoerst/the-pragmatic-pm) | PM leadership toolkit with 43 skills, 5 agents, 4 workflows. Covers PRD generation, OKR lifecycle, pricing, AI pricing, positioning, sales enablement, and quarterly planning. |
 | [terraform-helper](plugins/terraform-helper/) | Terraform module creation and infrastructure planning |
 | [test-data-generator](plugins/test-data-generator/) | Generate realistic test data and seed databases |
