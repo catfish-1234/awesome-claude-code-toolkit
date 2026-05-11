@@ -879,7 +879,7 @@ cp templates/claude-md/standard.md CLAUDE.md
 
 ## MCP Configs
 
-Fourteen curated Model Context Protocol server configurations.
+Fifteen curated Model Context Protocol server configurations.
 
 | Config | File | Servers Included |
 |--------|------|-----------------|
